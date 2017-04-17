@@ -424,6 +424,11 @@ body {
     padding: 0px 19%;
 }
 
+.price-supplement {
+    font-style: italic;
+    font-size: 14px;
+}
+
 /*Gallery*/
 
 .my-gallery {
@@ -476,6 +481,14 @@ body {
 #contact-phone, #homepage-phone-2 {
     color: black;
     text-decoration: underline;
+}
+
+#contact-phone {
+    font-size: 24px!important;
+}
+
+.contact-fulladdress {
+    opacity:0.7;
 }
 
 /*Workshop*/
